@@ -179,7 +179,7 @@ if(isset($_POST['tambah_data']))
      		<td><?=$data['harga']?></td>
      		<td><?=$data['jumlah']?></td>
      		<td>
-     			<a href="index.php?hal=edit&id=<?=$data['id_produk']?>" class="btn btn-warning">Edit</a>
+     			<a href="index.php?hal=edit&id=<?=$data['id_produk']?>" class="btn btn-success">Edit</a>
      			<a href="index.php?hal=hapus&id=<?=$data['id_produk']?>" 
      			   onclick="return confirm ('Apakah Anda Yakin Ingin Menghapus Data Ini?')" class="btn btn-danger">Hapus</a>
      		</td>
