@@ -1,4 +1,4 @@
-# Fullstack-Mobile-20-2
+# (Soal Arkademy) Fullstack-Mobile-20-2
 
 1. Tampilan Form Input Data Barang
 ![1  Tampilan Form Input Data Barang](https://user-images.githubusercontent.com/75023363/100233704-acf27680-2f5c-11eb-88ae-3fb5de90a411.PNG)
